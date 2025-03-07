@@ -1,2 +1,2 @@
 # StudyJava
-StudyJava
+Study Java
